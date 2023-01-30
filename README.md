@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Simple reactjs app that will show hello world text, button, button counter, and table fetching the data from external api from  [Mealsdb](https://www.themealdb.com/api.php).
 
-Usage
+## Usage
 
 Install dependencies and run the application
 
