@@ -1,0 +1,11 @@
+.my-table {
+  border: 1px solid #ccc;
+  width: 100%;
+}
+.my-header {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+.my-cell {
+  padding: 10px;
+}
